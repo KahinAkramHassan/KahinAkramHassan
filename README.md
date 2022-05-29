@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dash et al. 
 - 💞️ I’m looking to collaborate on data analysis challenges
 - 📫 How to reach me - LinkedIn
-- Have not updated my git for a long time... Most of what I work with cannot be shared but I'll do some sample project soon..
+- Have not updated my github profile in a long time now... But I'm working on some sample projects such as setting up pihole, wiregaurd vpn, ubuntu server, nextcloud and my portfolio. All on raspberry pi kubernetes clusters. Will upload as soon as its finsihed, not that anyone cares :) just for me. 
 
 <!---
 KahinAkramHassan/KahinAkramHassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
