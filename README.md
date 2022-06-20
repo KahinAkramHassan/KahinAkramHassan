@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @KahinAkramHassan
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Dash et al. 
-- 💞️ I’m looking to collaborate on data analysis challenges
-- 📫 How to reach me - LinkedIn
-- Have not updated my github profile in a long time now... But I'm working on some sample projects such as setting up pihole, wiregaurd vpn, ubuntu server, nextcloud and my portfolio. All on raspberry pi kubernetes clusters. Will upload as soon as its finsihed, not that anyone cares :) just for me. 
+- 👋 Hi, I’m Kahin
+- 👀 I’m a Data Analyst consulting @ Scania Group. Working on data from their new electrical units. 
+- 🌱 I’m currently working, on the side, on two ML projects, and learning how to setup my portfolio on a ubuntu server running on my Raspberry Pi using docker and Ansible, etc. 
+- 💞️ I’m always interested in doing new things. So if you have any projects you need help with, please drop a message.
+- 📫 How to reach me - [www.linkedIn/in/kahinakram](https://www.linkedin.com/in/kahinakram/) and email @ kahin.akram.hassan@gmail.com
+- Note: I have not updated my github profile in a while but I'm working on it. 
 
 <!---
 KahinAkramHassan/KahinAkramHassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
