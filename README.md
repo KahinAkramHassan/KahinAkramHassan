@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Kahin.
-- 👀 I’m a data analyst consultant @ [Scania Group](https://www.scania.com/se/sv/home.html) working on their new electrical units. 
+- 👀 I’m a Data Scientist @ [Ericsson]([https://www.scania.com/se/sv/home.html](https://www.ericsson.com/en)) with a focus on Visualization. 
 - 🌱 My current side projects include two ML projects learning end-to-end pipelines, learning how to setup a ubuntu server running on my Raspberry Pi using docker and Ansible for running wireguard, nextcloud, piehole, etc. 
 - 💞️ I’m always open to new challenges, so please drop a message if you have any ideas/questions.
 - 📫 You can reach me on [www.linkedIn/in/kahinakram](https://www.linkedin.com/in/kahinakram/) or by email @ kahin.akram.hassan@gmail.com
