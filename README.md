@@ -3,7 +3,7 @@
 
 👀 My primary focus is on designing and implementing ML solutions that solve real-world problems, using cutting-edge technologies and best practices.
 
-🌱 In my spare time, I'm exploring the FARM stack to build a web3 application that leverages the latest advancements in machine learning, blockchain and data analytics.
+🌱 In my spare time, I'm exploring FARM-stack and other similar Full-stack approaches to build a web3 application that leverages the latest advancements in machine learning, blockchain and data analytics.
 
 💞️ I'm always eager to tackle new challenges and collaborate with like-minded individuals, so please don't hesitate to contact me if you have any ideas or questions.
 
