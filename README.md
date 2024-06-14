@@ -1,13 +1,9 @@
+👋 Hello, I'm Kahin. I hold a Ph.D. in Abstract Data Visualization from Linköping University. With a strong foundation in data analytics, programming, and business intelligence (BI), I specialize in translating complex data sets into actionable insights through user-centric design and advanced analytics. But let's be honest, in the end, it doesn't matter—the end-user will be like "can I get that in a table?".
 
-👋 Hello, I'm Kahin. I'm a data scientist with experience in MLOps and visualization, currently working at [Ericsson](https://www.ericsson.com/en).
+✨ My work bridges the gap between theory and practice, integrating academic excellence with practical application. I am passionate about designing and implementing BI solutions that address real-world challenges using cutting-edge technologies and best practices. 
 
-👀 My primary focus is on designing and implementing ML solutions that solve real-world problems, using cutting-edge technologies and best practices.
 
-🌱 In my spare time, I'm exploring FARM-stack and other similar Full-stack approaches to build a web3 application that leverages the latest advancements in machine learning, blockchain and data analytics.
-
-💞️ I'm always eager to tackle new challenges and collaborate with like-minded individuals, so please don't hesitate to contact me if you have any ideas or questions.
-
-📫 You can reach me on [www.linkedIn/in/kahinakram](https://www.linkedin.com/in/kahinakram/) or via email @ kahin.akram.hassan@gmail.com, and I'll be happy to chat about any opportunities or projects you have in mind.
+📫 You can reach me on [www.linkedIn/in/kahinakram](https://www.linkedin.com/in/kahinakram/), [www.dataandpeople.org](https://www.dataandpeople.org) or via email @ kahin@dataandpeople.org.
 
 
 <!---
